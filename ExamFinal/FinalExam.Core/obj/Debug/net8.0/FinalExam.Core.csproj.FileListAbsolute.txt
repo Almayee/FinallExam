@@ -1,0 +1,13 @@
+C:\Users\CA.R215.15\Desktop\ExamFinal\FinalExam.Core\bin\Debug\net8.0\FinalExam.Core.deps.json
+C:\Users\CA.R215.15\Desktop\ExamFinal\FinalExam.Core\bin\Debug\net8.0\FinalExam.Core.dll
+C:\Users\CA.R215.15\Desktop\ExamFinal\FinalExam.Core\bin\Debug\net8.0\FinalExam.Core.pdb
+C:\Users\CA.R215.15\Desktop\ExamFinal\FinalExam.Core\obj\Debug\net8.0\FinalExam.Core.csproj.AssemblyReference.cache
+C:\Users\CA.R215.15\Desktop\ExamFinal\FinalExam.Core\obj\Debug\net8.0\FinalExam.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CA.R215.15\Desktop\ExamFinal\FinalExam.Core\obj\Debug\net8.0\FinalExam.Core.AssemblyInfoInputs.cache
+C:\Users\CA.R215.15\Desktop\ExamFinal\FinalExam.Core\obj\Debug\net8.0\FinalExam.Core.AssemblyInfo.cs
+C:\Users\CA.R215.15\Desktop\ExamFinal\FinalExam.Core\obj\Debug\net8.0\FinalExam.Core.csproj.CoreCompileInputs.cache
+C:\Users\CA.R215.15\Desktop\ExamFinal\FinalExam.Core\obj\Debug\net8.0\FinalExam.Core.sourcelink.json
+C:\Users\CA.R215.15\Desktop\ExamFinal\FinalExam.Core\obj\Debug\net8.0\FinalExam.Core.dll
+C:\Users\CA.R215.15\Desktop\ExamFinal\FinalExam.Core\obj\Debug\net8.0\refint\FinalExam.Core.dll
+C:\Users\CA.R215.15\Desktop\ExamFinal\FinalExam.Core\obj\Debug\net8.0\FinalExam.Core.pdb
+C:\Users\CA.R215.15\Desktop\ExamFinal\FinalExam.Core\obj\Debug\net8.0\ref\FinalExam.Core.dll
